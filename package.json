@@ -1,6 +1,6 @@
 {
-    "name": "react-native-reanimated-carousel",
-    "version": "4.0.0-alpha.12",
+    "name": "@kaceycleveland/react-native-reanimated-carousel",
+    "version": "1.0.0",
     "description": "Simple carousel component.fully implemented using Reanimated 2.Infinitely scrolling, very smooth.",
     "main": "lib/commonjs/index",
     "module": "lib/module/index",
@@ -30,14 +30,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dohooo/react-native-reanimated-carousel.git"
+        "url": "git+https://github.com/kaceycleveland/react-native-reanimated-carousel.git"
     },
     "author": "Doho <zhaodonghao586@outlook.com> (https://github.com/dohooo)",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/dohooo/react-native-reanimated-carousel/issues"
     },
-    "homepage": "https://github.com/dohooo/react-native-reanimated-carousel#readme",
+    "homepage": "https://github.com/kaceycleveland/react-native-reanimated-carousel#readme",
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
     },
